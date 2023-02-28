@@ -18,7 +18,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author NGO VU HUY
+ * @author llllllllllllllllllllllllllllllllllllllllllllllllllllllljjjjjjjjjjjjjjjjjjjjjjj
  */
 public class Homecontrol extends HttpServlet {
 
